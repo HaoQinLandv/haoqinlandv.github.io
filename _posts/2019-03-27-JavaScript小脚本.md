@@ -1,5 +1,5 @@
-##2019-03-27-JavaScript小脚本.md
-####贪吃蛇
+## 2019-03-27-JavaScript小脚本.md
+#### 贪吃蛇
 ```javascript
 <html>
 <head>
