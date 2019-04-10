@@ -23,3 +23,19 @@
 </CheatTable>
 ```
 ### https://www.52pojie.cn/thread-924687-1-1.html?tdsourcetag=s_pctim_aiomsg
+
+# 微信多开方法-low逼的方法
+
+* emmm这样还得挨个扫码
+```cmd
+@echo off
+start /d "C:\Program Files (x86)\Tencent\WeChat\" WeChat.exe
+
+start /d "C:\Program Files (x86)\Tencent\WeChat\" WeChat.exe
+
+start /d "C:\Program Files (x86)\Tencent\WeChat\" WeChat.exe
+
+start /d "C:\Program Files (x86)\Tencent\WeChat\" WeChat.exe
+exit
+
+```
